@@ -9,18 +9,21 @@ h1 {
     text-align: center;
     font-family: 'Arial', sans-serif;   
     font-weight: bold;
-    text-decoration: underline;
     margin-bottom: 15px;
     font-size: 30px;
+    border: 5px solid #FFFFFF; 
+    padding: 10px; 
+    border-radius: 10px; 
+    margin-top: -50px;
 }
 
 .blocos{
     text-align: center;
     border-radius: 18px; 
     padding: 50px; 
-    background-color: #63ADF2; 
+    background-color: #b6cde2; 
     box-shadow: 3px 3px 12px black;
-    max-width: 800px; 
+    max-width: 600px; 
     margin: 40px auto; 
     font-family: 'Arial', sans-serif;      
 }
